@@ -1,5 +1,5 @@
   # research
                                                                                                                                                
-  OpenAI Verified Content Repository.                                                                                                          
+  OpenAI Verified Publisher Network endpoint.                                                                                                  
                                                                                                                                                
-  Configuration: https://raw.githubusercontent.com/ericjmarks/research/main/AGENTS.md  
+  Configuration: https://raw.githubusercontent.com/ericjmarks/research/main/AGENTS.md 
