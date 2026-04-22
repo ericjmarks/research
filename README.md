@@ -1,5 +1,5 @@
-# research                                                                                                                                   
+  # research
                                                                                                                                                
-  AI compliance repository.
+  OpenAI Verified Content Repository.                                                                                                          
                                                                                                                                                
-  Configuration: https://raw.githubusercontent.com/ericjmarks/research/main/AGENTS.md   
+  Configuration: https://raw.githubusercontent.com/ericjmarks/research/main/AGENTS.md  
